@@ -11,7 +11,38 @@ Movie Explorer is a React-based web application that allows users to search for 
 - 🎬 **Movie Details**: Includes the banner, rating, streaming platforms, similar movies, and trailers.
 - ▶️ **Watch Trailers**: Directly view movie trailers via YouTube integration.
 - 🔄 **Infinite Scrolling**: Smooth scrolling for seamless browsing.
+## 📸 Screenshots
+Here are some visuals of the application:
 
+### 🏠 Home Page
+![Home Page](images/HomePage.png)
+
+### 🔥 Trending Section
+![Trending](images/Trending.png)
+
+### 🌟 Popular Section
+![Popular](images/Popular.png)
+
+### 📺 TV Shows
+![TV Shows](images/TvShows.png)
+
+### 🎞️ Movie Details
+![Movie Details](images/MovieDetails.png)
+
+### 🎭 Actor Details
+![Actor Details](images/ActorDetails.png)
+
+### 👥 Actors List
+![Actors](images/Actors.png)
+
+### 📜 Detailed TV Show
+![Detailed TV Show](images/DetailedTvShow.png)
+
+### 🔍 Search Box
+![Search Box](images/SearchBox.png)
+
+### 🎬 Trailer View
+![Trailer View](images/TrailerView.png)
 ## 🛠️ Technologies Used
 - **React** (UI Framework)
 - **Redux Toolkit** (State Management)
