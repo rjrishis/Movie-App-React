@@ -26,23 +26,24 @@ Here are some visuals of the application:
 ### 📺 TV Shows
 ![TV Shows](images/TvShows.png)
 
+### 📜 Detailed TV Show
+![Detailed TV Show](images/DetailedTvShow.png)
+
 ### 🎞️ Movie Details
 ![Movie Details](images/MovieDetails.png)
 
 ### 🎭 Actor Details
 ![Actor Details](images/ActorDetails.png)
 
-### 👥 Actors List
+### 👥 Actors
 ![Actors](images/Actors.png)
-
-### 📜 Detailed TV Show
-![Detailed TV Show](images/DetailedTvShow.png)
 
 ### 🔍 Search Box
 ![Search Box](images/SearchBox.png)
 
 ### 🎬 Trailer View
 ![Trailer View](images/TrailerView.png)
+
 ## 🛠️ Technologies Used
 - **React** (UI Framework)
 - **Redux Toolkit** (State Management)
