@@ -32,11 +32,11 @@ Here are some visuals of the application:
 ### 🎞️ Movie Details
 ![Movie Details](images/MovieDetails.png)
 
-### 🎭 Actor Details
-![Actor Details](images/ActorDetails.png)
-
 ### 👥 Actors
 ![Actors](images/Actors.png)
+
+### 🎭 Actor Details
+![Actor Details](images/ActorDetails.png)
 
 ### 🔍 Search Box
 ![Search Box](images/SearchBox.png)
