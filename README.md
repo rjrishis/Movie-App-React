@@ -1,7 +1,6 @@
 # 🎬 Movie Explorer
 
 ## 📌 Overview
-[🎬 Live Demo](your-hosted-link-here)
 Movie Explorer is a React-based web application that allows users to search for movies, explore trending and popular films, TV shows, and actors, and view detailed information about them. Users can watch trailers, check ratings, and find where movies are available for streaming.
 
 ## 🚀 Features
