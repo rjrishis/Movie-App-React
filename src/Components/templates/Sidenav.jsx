@@ -40,11 +40,11 @@ function Sidenav() {
         <h1 className="text-white font-semibold text-md ml-2 mt-6 mb-2">
           Website Information
         </h1>
-        <Link className="p-5 hover:bg-[#6556cd] text-sm hover:text-white duration-300 rounded-lg">
+        <Link to={"/about-us"} className="p-5 hover:bg-[#6556cd] text-sm hover:text-white duration-300 rounded-lg">
           <i className="mr-2 ri-information-2-fill"></i>
           About
         </Link>
-        <Link className="p-5 hover:bg-[#6556cd] text-sm hover:text-white duration-300 rounded-lg">
+        <Link to={"/contact-us"} className="p-5 hover:bg-[#6556cd] text-sm hover:text-white duration-300 rounded-lg">
           <i className="mr-2 ri-contacts-book-2-fill"></i>
           Contact Us
         </Link>
