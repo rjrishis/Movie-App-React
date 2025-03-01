@@ -4,7 +4,7 @@
 Movie Explorer is a React-based web application that allows users to search for movies, explore trending and popular films, TV shows, and actors, and view detailed information about them. Users can watch trailers, check ratings, and find where movies are available for streaming.
 
 ## Visit Here
-[Movie-Explorer](https://movie-app-react-git-main-rishi-sharmas-projects.vercel.app)
+[Movie-Explorer](https://movie-app-react-git-main-rishi-sharmas-projects.vercel.app) <br/>
 [Movie-Explorer-1](https://movie-app-react-tau-blond.vercel.app/)
 ## 🚀 Features
 - 🔍 **Search Movies & TV Shows**: Find movies and TV shows using the search bar.
